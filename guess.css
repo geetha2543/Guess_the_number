@@ -1,0 +1,26 @@
+body{
+    background-image: url(question.avif);
+}
+/*body{
+    background-color:lightcoral;
+}*/
+fieldset{
+    width: 70%;
+    height: 60%;
+    margin: auto;
+    margin-top: 10%;
+    background-color: pink;
+    color: white;
+}
+h1{
+    color: yellow;
+}
+h3{
+    display: inline;
+}
+#result{
+    width: fit-content;
+    height: fit-content;
+    background-color: palevioletred;
+    color:white;
+}
